@@ -1,1 +1,1 @@
-getgenv().Enabled = true
+getgenv().Enabled = false

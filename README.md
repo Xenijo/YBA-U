@@ -5,5 +5,5 @@ Main: true
 ```
 
 ```lua
-Bypas: true
+Bypass: true
 ```

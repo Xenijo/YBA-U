@@ -1,9 +1,9 @@
 # YBA-U
 Status
-```
-Mani: Enabled
+```lua
+Main: true
 ```
 
-```
-Bypas: Disabled
+```lua
+Bypas: false
 ```
